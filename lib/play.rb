@@ -41,6 +41,6 @@ counter = 0
       
       turn(board)
       counter +=1
-      
+
     end
-end  
+end
